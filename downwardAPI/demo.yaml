@@ -1,4 +1,3 @@
-
 apiVersion: v1
 kind: Pod
 metadata:
@@ -10,7 +9,7 @@ metadata:
 spec:
   containers:
     - name: client-container
-      image: k8s.gcr.io/busybox
+      image: busybox
       command: ["sh", "-c"]
       args:
         - while true; do
@@ -19,8 +18,8 @@ spec:
           sleep 5;
           done;
       volumeMounts:
-        - name: podinfo
-          mountPath: /etc/podinfo
+        - mountPath: /etc/podinfo
+          name: podinfo
           readOnly: false
   volumes:
     - name: podinfo

@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="297eafdc-8924-4e69-8055-2d3504b4f8d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/secretP.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secret/secretdemo.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/temp.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +79,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1018" y="1673" width="732" height="647" key="#Inspections" timestamp="1636807447153">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="1018" y="1673" width="732" height="647" key="#Inspections/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636807447153" />
     <state x="1101" y="1786" width="605" height="449" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636792781154">
       <screen x="393" y="1440" width="1920" height="1080" />
     </state>
