@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="297eafdc-8924-4e69-8055-2d3504b4f8d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/secretP.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secret/secretdemo.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx/hello" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/temp.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.13" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="20p5jbP6qgUojqVzIhL3bh6wAt5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/secret" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1101" y="1786" width="605" height="449" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636792781154">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="1101" y="1786" width="605" height="449" key="#com.intellij.fileTypes.FileTypeChooser/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636792781154" />
+    <state x="1172" y="1751" width="424" height="491" key="FileChooserDialogImpl" timestamp="1636795574416">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="1172" y="1751" width="424" height="491" key="FileChooserDialogImpl/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636795574416" />
+    <state x="870" y="1628" width="1037" height="737" key="SettingsEditor" timestamp="1636795469910">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="870" y="1628" width="1037" height="737" key="SettingsEditor/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636795469910" />
+    <state x="1121" y="1664" width="525" height="665" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1636730679763">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="1121" y="1664" width="525" height="665" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636730679763" />
+    <state x="1179" y="1858" width="400" height="284" key="scopes" timestamp="1636793033086">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="1179" y="1858" width="400" height="284" key="scopes/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636793033086" />
+    <state x="1052" y="1699" width="672" height="678" key="search.everywhere.popup" timestamp="1636792829187">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="1052" y="1699" width="672" height="678" key="search.everywhere.popup/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636792829187" />
+  </component>
+</project>
