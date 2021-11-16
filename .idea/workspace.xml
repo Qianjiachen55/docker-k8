@@ -21,12 +21,18 @@
   <component name="ChangeListManager">
     <list default="true" id="297eafdc-8924-4e69-8055-2d3504b4f8d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/temp.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/lib/go-1.13" />
   <component name="Git.Settings">
@@ -46,6 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -99,6 +106,10 @@
       <screen x="393" y="1440" width="1920" height="1080" />
     </state>
     <state x="1121" y="1664" width="525" height="665" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1636730679763" />
+    <state x="1181" y="1565" width="638" height="942" key="find.popup" timestamp="1637065302913">
+      <screen x="393" y="1440" width="1920" height="1080" />
+    </state>
+    <state x="1181" y="1565" width="638" height="942" key="find.popup/393.1440.1920.1080/465.0.2095.1440@393.1440.1920.1080" timestamp="1637065302913" />
     <state x="1179" y="1858" width="400" height="284" key="scopes" timestamp="1636793033086">
       <screen x="393" y="1440" width="1920" height="1080" />
     </state>
