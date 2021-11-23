@@ -1,0 +1,24 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: Pod
+spec:
+  containers:
+    - image: pause
+      name: rdb-rw
+      volumeMounts:
+        - mountPath: /mnt/rbd
+          name: rdbpd
+  volumes:
+    - name: rbdpd
+      rbd:
+        image: foo
+        monitors:
+          - '10.16.154.78:6789'
+          - '10.16.154.82:6789'
+          - '10.16.154.83:6789'
+        pool: kube
+        fsType: ext4
+        readOnly: true
+        user: admin
+        keyring: /etc/ceph/keyring
